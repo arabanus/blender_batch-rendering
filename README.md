@@ -15,7 +15,7 @@ This script allows you to render all `.blend` files in a directory using Blender
 1. **Place the Script in the Target Directory**:
    - Copy the script file (e.g., `blender_batch-rendering.sh`) into the directory containing the `.blend` files you want to render.
 
-2. **Make the Script Executable** (Linux/macOS):
+2. **Make the Script Executable**:
    - Open a terminal and navigate to the directory where the script is located.
    - Run the following command to make the script executable:
      ```bash
